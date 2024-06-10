@@ -22,9 +22,6 @@
       "last 1 safari version"
     ]
   },
-  "engines": {
-    "node": ">=18.0.0"
-  },
   "dependencies": {
     "vite-plugin-html": "3.2.2"
   },
